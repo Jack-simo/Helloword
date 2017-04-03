@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //这是一行注释注释注释，哈哈哈哈哈哈哈哈
         ImageView imageView = new ImageView(this);
+        //这是第二行注释
+
     }
 }
